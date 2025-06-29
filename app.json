@@ -76,11 +76,6 @@
         "android.permission.RECORD_AUDIO",
         "android.permission.READ_EXTERNAL_STORAGE",
         "android.permission.WRITE_EXTERNAL_STORAGE",
-        "android.permission.MODIFY_AUDIO_SETTINGS",
-        "android.permission.CAMERA",
-        "android.permission.RECORD_AUDIO",
-        "android.permission.READ_EXTERNAL_STORAGE",
-        "android.permission.WRITE_EXTERNAL_STORAGE",
         "android.permission.MODIFY_AUDIO_SETTINGS"
       ]
     },
@@ -100,6 +95,7 @@
     },
     "updates": {
       "url": "https://u.expo.dev/df0841d1-adb1-4051-938f-f72519c1d60e"
-    }
+    },
+    "owner": "amine20_20"
   }
 }
